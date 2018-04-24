@@ -1,5 +1,6 @@
 # Arcade Game Clone
-This is a repository for Project 3 of the Udacity FEND course
+####This is a repository for Project 3 of the Udacity FEND course
+
 Arcade Game
 ===============================
 # Summary
