@@ -12,8 +12,8 @@ Frogger Arcade is a variation of the classic  arcade game.
 
 ## Where to start?
 
-- opening **index.html** page in my [GitHub]().
-- **(recommended)** use code pen to run the code  : [click here]()
+- opening **index.html** page in my [GitHub](https://github.com/RehabMadkhali/ArcadeGameClone).
+- **(recommended)** use code pen to run the code  : [click here](classroom.udacity.com/courses/ud001)
 
 
 ## How to play the game ?
