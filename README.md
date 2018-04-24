@@ -38,8 +38,6 @@ in case you win or lose, a message will pop up, a congrats message or a game ove
 ## Resources:
 [http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/ "How to Make a Simple HTML5 Canvas Game")  
 [http://jdstraughan.com/2013/03/05/html5-snake-with-source-code-walkthrough/](http://jdstraughan.com/2013/03/05/html5-snake-with-source-code-walkthrough/ "HTML5 Snake Game")  
-http://www.w3schools.com/Tags/ref_canvas.asp](http://www.w3schools.com/Tags/ref_canvas.asp "HTML5 Canvas Reference")  
-[http://benalman.com/news/2010/11/immediately-invoked-function-expression/](http://benalman.com/news/2010/11/immediately-invoked-function-expression/ "Immediately-Invoked Function Expressions")
 [http://stackoverflow.com/questions/9772307/declaring-javascript-object-method-in-constructor-function-vs-in-prototype/9772864#9772864/](http://stackoverflow.com/questions/9772307/declaring-javascript-object-method-in-constructor-function-vs-in-prototype/9772864#9772864/ "Stack Overflow - Object Methods in Constructor Functions vs. Prototypes")  
 [http://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes/](http://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes/ "JavaScript Character Key Codes")  
 [https://github.com/iMishaDev/arcade-game](https://github.com/iMishaDev/arcade-game)  
