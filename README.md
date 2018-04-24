@@ -2,7 +2,7 @@
 This is a repository for Project 3 of the Udacity FEND course
 
 # Summary
-Frogger Arcade is a variation of the classic  arcade game.
+ Arcade is a variation of the classic  arcade game.
 
 ## Game Rules:
 - player should avoid the anime.
@@ -30,7 +30,7 @@ in case you win or lose, a message will pop up, a congrats message or a game ove
 - constructor functions to create multiple Enemy instances
 
 
-##Project Requirements
+## Project Requirements
 #### Students should use this rubric for self-checking their submission:
 [https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797/](https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797/ "Frogger Arcade Game Project Requirements")
 
