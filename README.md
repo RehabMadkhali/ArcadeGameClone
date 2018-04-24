@@ -1,7 +1,6 @@
 # Arcade Game Clone
 This is a repository for Project 3 of the Udacity FEND course
 
-===============================
 # Summary
 Frogger Arcade is a variation of the classic  arcade game.
 
