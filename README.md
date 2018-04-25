@@ -20,7 +20,7 @@ You will use arrow keys to control the player :
 - **Right** arrow will move the player to the right.
 - **Up** arrow will move the player up.
 - **Down** arrow will move the player down.
-- **Note** Don't press enter while you are
+- **Note** Don't press enter while you are playing just use arrows
 
 in case you win or lose, a message will pop up, a congrats message or a game over message. to remove that message and play again you need to press **enter** that will reset the game.
 
