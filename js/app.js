@@ -1,4 +1,4 @@
-var Creature = function(x, y, width, height, sprite) {
+var Creature = function(x, y, width, height, sprite) { //
   this.sprite = sprite;
   this.x = x;
   this.y = y;
@@ -61,6 +61,7 @@ Enemy.prototype.render = function() {
     ctx.drawImage(Resources.get(this.sprite), this.x, this.y, this.width  ,this.height);
 };
 
+//by default player position 
 var Player = function(x, y, width, height) {
   "use strict";
   Creature.call(this, x, y, width, height, 'images/char-boy.png');
@@ -70,6 +71,7 @@ var Player = function(x, y, width, height) {
   this.life = 10;
 };
 
+//for update the movemrnt of the player 
 Player.prototype.update = function() {
   "use strict";
   var keyPressed = this.pressedKey;
