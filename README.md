@@ -32,7 +32,7 @@ in case you win or lose, a message will pop up, a congrats message or a game ove
 
 ## Project Requirements
 #### Students should use this rubric for self-checking their submission:
-[https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797/](https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797/ "Frogger Arcade Game Project Requirements")
+[https://review.udacity.com/#!/projects/2696458597/rubric](https://review.udacity.com/#!/projects/2696458597/rubric)
 
 ## Resources:
 [http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/ "How to Make a Simple HTML5 Canvas Game")  
